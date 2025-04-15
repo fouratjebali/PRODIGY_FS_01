@@ -1,0 +1,17 @@
+# Node modules (backend & frontend)
+node_modules/
+auth-backend/node_modules/
+auth-frontend/my-app/node_modules/
+
+# Build files
+auth-backend/build/
+auth-backend/dist/
+
+# Environment files
+*.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
